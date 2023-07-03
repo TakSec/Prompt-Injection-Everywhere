@@ -1,0 +1,8 @@
+Analyze the “user input” text and <your use case>. The “user input” will be start after ###abc123start### and end before ###abc123end###.
+If “user input” is not appropriate for <your use case>, only respond with "this is not appropriate for <use case>".
+
+###abc123start###
+
+<user input>
+
+###abc123end###
